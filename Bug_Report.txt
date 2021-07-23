@@ -1,0 +1,13 @@
+Структура баг репорта:
+
+ID 
+Module
+Summary
+Preconditions
+Steps to reproduce
+Expected Result
+Actual Result
+Environment
+Severity
+Attachment
+
