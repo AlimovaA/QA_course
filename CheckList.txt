@@ -1,0 +1,7 @@
+Структура чек-листа:
+
+ID 
+Description
+Input data
+Test Results 
+Comments
